@@ -2031,83 +2031,83 @@ tsutils@^3.21.0:
   dependencies:
     tslib "^1.8.1"
 
-turbo-darwin-64@1.2.3:
-  version "1.2.3"
-  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-darwin-64/-/turbo-darwin-64-1.2.3.tgz#a72734e497e357ef36c6a6ae3c1f4255c38d4c61"
-  integrity sha1-pyc05JfjV+82xqauPB9CVcONTGE=
+turbo-darwin-64@1.2.4:
+  version "1.2.4"
+  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-darwin-64/-/turbo-darwin-64-1.2.4.tgz#421d68e548150da80ce846a81476f24cb335cc2f"
+  integrity sha1-Qh1o5UgVDagM6EaoFHbyTLM1zC8=
 
-turbo-darwin-arm64@1.2.3:
-  version "1.2.3"
-  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-darwin-arm64/-/turbo-darwin-arm64-1.2.3.tgz#ed0cd220ef008bb54865a9d9716acb5d34153dc2"
-  integrity sha1-7QzSIO8Ai7VIZanZcWrLXTQVPcI=
+turbo-darwin-arm64@1.2.4:
+  version "1.2.4"
+  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-darwin-arm64/-/turbo-darwin-arm64-1.2.4.tgz#0fa601b4c54c5011d2dc9d3e8698287da483ee94"
+  integrity sha1-D6YBtMVMUBHS3J0+hpgofaSD7pQ=
 
-turbo-freebsd-64@1.2.3:
-  version "1.2.3"
-  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-freebsd-64/-/turbo-freebsd-64-1.2.3.tgz#10cc5917c01f1975bdac77e7d51cecbbca78d064"
-  integrity sha1-EMxZF8AfGXW9rHfn1Rzsu8p40GQ=
+turbo-freebsd-64@1.2.4:
+  version "1.2.4"
+  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-freebsd-64/-/turbo-freebsd-64-1.2.4.tgz#296f3f555df382d90280df402ea338a0b46c35a4"
+  integrity sha1-KW8/VV3zgtkCgN9ALqM4oLRsNaQ=
 
-turbo-freebsd-arm64@1.2.3:
-  version "1.2.3"
-  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-freebsd-arm64/-/turbo-freebsd-arm64-1.2.3.tgz#67832acef560ab2ec67d4e04d6d6127176a21f48"
-  integrity sha1-Z4MqzvVgqy7GfU4E1tYScXaiH0g=
+turbo-freebsd-arm64@1.2.4:
+  version "1.2.4"
+  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-freebsd-arm64/-/turbo-freebsd-arm64-1.2.4.tgz#037a650a79781ccc3c013d9b2b0e104a4563430a"
+  integrity sha1-A3plCnl4HMw8AT2bKw4QSkVjQwo=
 
-turbo-linux-32@1.2.3:
-  version "1.2.3"
-  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-linux-32/-/turbo-linux-32-1.2.3.tgz#a357fa45d396a097c96c642be442ebca195d7da9"
-  integrity sha1-o1f6RdOWoJfJbGQr5ELryhldfak=
+turbo-linux-32@1.2.4:
+  version "1.2.4"
+  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-linux-32/-/turbo-linux-32-1.2.4.tgz#a3a4a54e460193cb8b780b007b143b3918c490a6"
+  integrity sha1-o6SlTkYBk8uLeAsAexQ7ORjEkKY=
 
-turbo-linux-64@1.2.3:
-  version "1.2.3"
-  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-linux-64/-/turbo-linux-64-1.2.3.tgz#2628982d542731060dd49fc8ed846e85bcecdc95"
-  integrity sha1-JiiYLVQnMQYN1J/I7YRuhbzs3JU=
+turbo-linux-64@1.2.4:
+  version "1.2.4"
+  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-linux-64/-/turbo-linux-64-1.2.4.tgz#8c5562d21ef48c35a39bc69712ddb5254ffeac0e"
+  integrity sha1-jFVi0h70jDWjm8aXEt21JU/+rA4=
 
-turbo-linux-arm64@1.2.3:
-  version "1.2.3"
-  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-linux-arm64/-/turbo-linux-arm64-1.2.3.tgz#0e69f4083c2d42bb593f305bc0814abed6307be2"
-  integrity sha1-Dmn0CDwtQrtZPzBbwIFKvtYwe+I=
+turbo-linux-arm64@1.2.4:
+  version "1.2.4"
+  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-linux-arm64/-/turbo-linux-arm64-1.2.4.tgz#24cd81deb2b42086cb6c0ad313b30328e348ef00"
+  integrity sha1-JM2B3rK0IIbLbArTE7MDKONI7wA=
 
-turbo-linux-arm@1.2.3:
-  version "1.2.3"
-  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-linux-arm/-/turbo-linux-arm-1.2.3.tgz#018fe41bf1709ea677f66842a38fe69a80d43373"
-  integrity sha1-AY/kG/FwnqZ39mhCo4/mmoDUM3M=
+turbo-linux-arm@1.2.4:
+  version "1.2.4"
+  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-linux-arm/-/turbo-linux-arm-1.2.4.tgz#dcb4917941dc8b6c8572ce17d0ed52c427b93c29"
+  integrity sha1-3LSReUHci2yFcs4X0O1SxCe5PCk=
 
-turbo-linux-mips64le@1.2.3:
-  version "1.2.3"
-  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-linux-mips64le/-/turbo-linux-mips64le-1.2.3.tgz#a23b46bcd290ab1815d1f008a835b380941c40dc"
-  integrity sha1-ojtGvNKQqxgV0fAIqDWzgJQcQNw=
+turbo-linux-mips64le@1.2.4:
+  version "1.2.4"
+  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-linux-mips64le/-/turbo-linux-mips64le-1.2.4.tgz#34b7c345e21ed84d80e271c957e40c8cab454663"
+  integrity sha1-NLfDReIe2E2A4nHJV+QMjKtFRmM=
 
-turbo-linux-ppc64le@1.2.3:
-  version "1.2.3"
-  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-linux-ppc64le/-/turbo-linux-ppc64le-1.2.3.tgz#39cbde03a8eb67b21e2855544c020201909caf53"
-  integrity sha1-OcveA6jrZ7IeKFVUTAICAZCcr1M=
+turbo-linux-ppc64le@1.2.4:
+  version "1.2.4"
+  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-linux-ppc64le/-/turbo-linux-ppc64le-1.2.4.tgz#d12993caa4c43624fa87f61e1d8a1049ad3dc012"
+  integrity sha1-0SmTyqTENiT6h/YeHYoQSa09wBI=
 
-turbo-windows-32@1.2.3:
-  version "1.2.3"
-  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-windows-32/-/turbo-windows-32-1.2.3.tgz#554c449dfa75caf190b6d548e86cfeafc8e3825b"
-  integrity sha1-VUxEnfp1yvGQttVI6Gz+r8jjgls=
+turbo-windows-32@1.2.4:
+  version "1.2.4"
+  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-windows-32/-/turbo-windows-32-1.2.4.tgz#21263011af742297b94746cd4f42434a11f628b2"
+  integrity sha1-ISYwEa90Ipe5R0bNT0JDShH2KLI=
 
-turbo-windows-64@1.2.3:
-  version "1.2.3"
-  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-windows-64/-/turbo-windows-64-1.2.3.tgz#bee5949ab82f6857632fb1c2b6c1ac195ab9cdf5"
-  integrity sha1-vuWUmrgvaFdjL7HCtsGsGVq5zfU=
+turbo-windows-64@1.2.4:
+  version "1.2.4"
+  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo-windows-64/-/turbo-windows-64-1.2.4.tgz#65a1ab8259515e06b1c285895a90105af9db0f4a"
+  integrity sha1-ZaGrgllRXgaxwoWJWpAQWvnbD0o=
 
-turbo@1.2.3:
-  version "1.2.3"
-  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo/-/turbo-1.2.3.tgz#2e02011b7ab872ddfe667ab5e1258904cd4cdab4"
-  integrity sha1-LgIBG3q4ct3+Znq14SWJBM1M2rQ=
+turbo@1.2.4:
+  version "1.2.4"
+  resolved "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-adobe-release/turbo/-/turbo-1.2.4.tgz#feeee3487bd5cafaf9cbba0f46f9b5970309d04a"
+  integrity sha1-/u7jSHvVyvr5y7oPRvm1lwMJ0Eo=
   optionalDependencies:
-    turbo-darwin-64 "1.2.3"
-    turbo-darwin-arm64 "1.2.3"
-    turbo-freebsd-64 "1.2.3"
-    turbo-freebsd-arm64 "1.2.3"
-    turbo-linux-32 "1.2.3"
-    turbo-linux-64 "1.2.3"
-    turbo-linux-arm "1.2.3"
-    turbo-linux-arm64 "1.2.3"
-    turbo-linux-mips64le "1.2.3"
-    turbo-linux-ppc64le "1.2.3"
-    turbo-windows-32 "1.2.3"
-    turbo-windows-64 "1.2.3"
+    turbo-darwin-64 "1.2.4"
+    turbo-darwin-arm64 "1.2.4"
+    turbo-freebsd-64 "1.2.4"
+    turbo-freebsd-arm64 "1.2.4"
+    turbo-linux-32 "1.2.4"
+    turbo-linux-64 "1.2.4"
+    turbo-linux-arm "1.2.4"
+    turbo-linux-arm64 "1.2.4"
+    turbo-linux-mips64le "1.2.4"
+    turbo-linux-ppc64le "1.2.4"
+    turbo-windows-32 "1.2.4"
+    turbo-windows-64 "1.2.4"
 
 type-check@^0.4.0, type-check@~0.4.0:
   version "0.4.0"
